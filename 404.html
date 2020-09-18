@@ -1,6 +1,6 @@
 ---
 permalink: /404.html
-layout: default
+layout: blank
 ---
 
 <link rel="stylesheet" href="css/flip.min.css">
@@ -70,7 +70,7 @@ body {
 
 <div class="tick" data-value="00000000" data-did-init="handleTickInit">
 
-    <div data-repeat="true" data-layout="horizontal fit" data-transform="round -> pad(00000000) -> split -> delay(random, 100, 150)">
+    <div data-repeat="true" data-layout="horizontal fit" data-transform="round -> pad(000) -> split -> delay(random, 100, 150)">
 
         <span data-view="flip" data-transform="arrive(1, 0.01) -> round -> limit(0,9)"></span>
 
@@ -88,7 +88,7 @@ body {
 
         // let's show the final value
         setTimeout(function(){
-            tick.value = 12345678;
+            tick.value = 404;
         }, 1500);
 
     }
