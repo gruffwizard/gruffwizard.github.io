@@ -29,7 +29,7 @@ github_username:  gruffwizard
 
 # Build settings
 #theme: minima
-remote_theme: wowthemesnet/mediumish-theme-jekyll
+remote_theme: wowthemesnet/jekyll-theme-memoirs
 plugins:
   - jekyll-feed
 
