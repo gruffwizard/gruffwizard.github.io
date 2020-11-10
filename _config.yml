@@ -21,8 +21,8 @@
 title: Gruff By Naturee
 email: gruff.wizard@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Musing from a greybeard. Once there was a city called was-ing-ton
-baseurl: "" # the subpath of your site, e.g. /blog
+  Musing from a greybeard. Once there was a city called wash-ing-ton
+baseurl: "" # the subpath of your site, e.g. /blogh
 url: "https://gruffwizard.dev" 
 twitter_username: gruffwizard
 github_username:  gruffwizard
